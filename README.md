@@ -1,12 +1,14 @@
-# cpp-say-hello
+# cpp-fahrenheit-2-celsius
 
-Este é o primeiro programa em linguagem C/C++ que imprime uma mensagem quando o programa é executado.
+Este é o segundo programa em C/C++ para ilustrar a conversão de uma temperatura em graus Fahrenheit para Celsius.
 
-Note que existe um comando nomeado *cout* que recebe uma mensagem entre aspas. 
+A fórmula de conversão de graus Fahrenheit para Celsius é igual a:
 
-Essa mensagem entre aspas é direcionada por duas setas para o comando *cout*.
+C = (5 * (F - 32)) / 9
 
-A partir desse código altere o texto do *cout* para que a mensagem **Seja bem-vindo a ECO!** seja apresentada.
+na qual, C é o valor em graus Celsius e F é o valor em graus Fahrenheit.
+
+O símbolo * representa a multiplicação na linguagem C/C++.
 
 Divirta-se! Fique tranquilo! Fique bem!
 
